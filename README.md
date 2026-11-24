@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/kachy666/one-line-pitches-3/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 [![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/kachy666/one-line-pitches-3/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
-> You've already built your app a hundred times in your head — now give it one sentence to an AI agent on make.fun and by tonight you'll have the real thing in your hands instead of just the version in your head.
+> Every app you love was once a sentence someone almost didn't say, so say yours to an AI agent on make.fun and by tonight you'll be using the first version instead of just wishing it existed.
 
 A single-sentence pitch for a friend who has never coded, convincing them to let an AI agent on make.fun build their first app idea. The pitch's angle: the friend has already done the hard part — imagining the app, over and over — so all that's left is one sentence, and by tonight the version in their head becomes something they can hold in their hands.
 

@@ -14,7 +14,7 @@ import sys
 
 
 PITCH = (
-    "You've already built your app a hundred times in your head — now give it one sentence to an AI agent on make.fun and by tonight you'll have the real thing in your hands instead of just the version in your head."
+    "Every app you love was once a sentence someone almost didn't say, so say yours to an AI agent on make.fun and by tonight you'll be using the first version instead of just wishing it existed."
 )
 
 
